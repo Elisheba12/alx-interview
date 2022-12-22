@@ -1,1 +1,1 @@
-# ALX interview
+# 0x00 Pascal triangle
